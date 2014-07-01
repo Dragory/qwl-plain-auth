@@ -1,0 +1,7 @@
+{
+  "name": "qwl-auth-plain",
+  "version": "1.0.0",
+  "dependencies": {
+    "bluebird": "^2.1.3"
+  }
+}
